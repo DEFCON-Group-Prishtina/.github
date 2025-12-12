@@ -15,5 +15,3 @@ This GitHub is a shared space for community output: experiments, demos, notes, t
 All skill levels are welcome. Curiosity and kindness above all.
 
 Hack the planet.
-
-<img width="2400" height="2380" alt="jolly" src="https://github.com/user-attachments/assets/27b3c1b0-fd7c-4ef9-a46b-059ce5bb6e86" />
