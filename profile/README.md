@@ -1,6 +1,7 @@
 # DEF CON Group Prishtina (DCG 38338)
 
-website: https://dc38338.org
+Website: https://dc38338.org
+Email: friends@dc38338{.]org
 
 DEF CON Group Prishtina is the official local DCG chapter for Prishtina, Kosovo. Our focus is **hacker culture**.
 
