@@ -8,5 +8,7 @@ This GitHub is a shared space for community output: experiments, demos, notes, t
 
 All skill levels are welcome. Curiosity and kindness above all. Hack the planet.
 
+```
 Website: https://dc38338.org
 Email: friends@dc38338{.]org
+```
